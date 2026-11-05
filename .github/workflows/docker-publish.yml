@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ${{ lonelyally }}
+  IMAGE_NAME: lonelyally/docker-test
 
 jobs:
   build-and-push:
